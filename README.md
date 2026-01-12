@@ -28,6 +28,8 @@ Run Streamlit app
 streamlit run app.py
 
 What’s inside (modules)
+
+requirements.txt - all the required libraries and their installation details.
 app.py — Streamlit UI, form, file upload, results dashboard, export & session management. 
 medical_processor.py — OCR + spaCy patterns, ontology, lab/med extraction and negation detection. 
 recipe_recommender.py — data cleaning, TF-IDF, allergy/diet filtering and recommendation logic. 
