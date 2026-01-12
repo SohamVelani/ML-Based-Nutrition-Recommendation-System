@@ -1,0 +1,57 @@
+# Core web framework
+streamlit>=1.28.0
+
+# Enhanced PDF processing
+PyMuPDF>=1.23.0  # Better PDF text extraction
+pytesseract>=0.3.10  # OCR for scanned documents
+pdf2image>=3.1.0  # Convert PDF pages to images
+Pillow>=10.0.0  # Image processing
+
+# Document processing
+python-docx>=0.8.11  # DOCX file support
+
+# Enhanced NLP and Medical Processing
+spacy>=3.7.0  # Core NLP library
+# Medical NLP (optional but recommended)
+# scispacy>=0.5.1  # Uncomment if installing medical models
+
+# Database
+sqlite3  # Built into Python
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0  # For data analysis if needed
+
+# Web scraping and utilities (if needed for future enhancements)
+requests>=2.31.0
+
+# Visualization
+plotly>=5.15.0  # For health timeline charts
+
+# Authentication and security
+hashlib  # Built into Python
+bcrypt>=4.0.0  # Optional: for more secure password hashing
+
+# Logging
+logging  # Built into Python
+
+# Type hints
+typing_extensions>=4.7.0
+
+# JSON processing
+json  # Built into Python
+
+# Regular expressions
+re  # Built into Python
+
+# Date and time utilities
+datetime  # Built into Python
+
+# Math utilities
+math  # Built into Python
+
+# I/O operations
+io  # Built into Python
+
+# OS operations
+os  # Built into Python
