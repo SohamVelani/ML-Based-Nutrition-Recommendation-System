@@ -46,3 +46,7 @@ Dataset source: Kaggle https://www.kaggle.com/datasets/irkaal/foodcom-recipes-an
 The QNA_ML file if run on any Cloud GPU provider like Google Collab, use FASTAPI to connect to the front end of the project.  
 This tool assists with nutrition suggestions. It is not a medical device — always include a visible disclaimer and require professional consultation for critical cases. (You already include disclaimers in exports.) 
 Large models in QNA_ML.py require GPU, significant RAM, and extra libs (transformers, bitsandbytes, faiss, sentence-transformers). See Deployment notes.
+
+👨‍💻 Author
+**Soham Velani**  
+B.Tech | IT
